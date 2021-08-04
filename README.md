@@ -8,3 +8,4 @@ it demonstrates an example for angular application with multiple views (for mult
 clone the project <br>
 run: npm install <br>
 run: ng s
+.
